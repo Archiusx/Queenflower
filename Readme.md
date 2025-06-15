@@ -27,7 +27,7 @@ This website celebrates the **Queen’s Crape Myrtle**, locally known as **Tamha
 
 ## 🔗 Live Preview
 
-👉 [Visit Site](https://tamhan-tree.netlify.app)  
+👉 [Visit Site](https://queenflower.netlify.app)  
 *Hosted on Netlify – mobile-friendly and fast.*
 
 ## 📁 Project Structure
